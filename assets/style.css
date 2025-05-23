@@ -1,0 +1,64 @@
+*{
+    padding: 0;
+    margin: 0;
+
+}
+
+h1{
+    color: black;
+    margin: 20px;
+    padding: 15px;
+
+}
+
+.header-item {
+    align-items: center;
+    text-decoration: none;
+    list-style-type: none;
+    padding-left: 10px ;
+    margin-left: 10px;
+    gap: 2em;
+    color: aqua;
+    display: flex;
+}
+
+.fruit{
+    padding: 15px;
+    margin: 25px;
+    
+}
+.fruit a{
+    text-decoration: none;
+    color: #1c3c15;
+    
+}
+
+
+.coffee {
+    padding: 20px;
+    margin: 25px;
+}
+
+
+.coffee a {
+    padding: 1px;
+    margin: 10px;
+    text-decoration: none;
+    color: #1c3c15;
+}
+
+.git{
+    width: 2em;
+}
+
+.ima-gor{
+    width: 20em;
+
+}
+
+table, th, td {
+    border: 1px solid black;
+    border-radius: 10px;
+    align-items: center;
+    width: auto ;
+}
